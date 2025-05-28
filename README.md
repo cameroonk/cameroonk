@@ -9,6 +9,9 @@ DevOps: Ansible, Bash Scripting, Docker, Git, GCC, GDB, Linux, VMWare\
 Database Management: MongoDB, SQL\
 Microsoft Office Suite\
 
+### Projects
+OpenStack Cloud Deployment | OS161 Kernel Development | NASA Fprime Ontology Automation System | ACSI TACSI Flight Software | Software Quality Assurance CD/CI
+
 ### Working On
 I am currently working on learning Embedded Systems Development by developing personal projects on my ESP32 dev board. 
 
