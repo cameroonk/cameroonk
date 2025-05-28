@@ -3,17 +3,16 @@
 ### Education
 Auburn University | Software Engineering | 3.7 GPA
 
-### School Projects
-#### Alabama CubeSAT Initiative Satellite Software Generation
-_Team Lead_
+### Skills
+Programming Languages: C, C++, F', Java, JavaScript, NodeJS, Python
+DevOps: Ansible, Bash Scripting, Docker, Git, GCC, GDB, Linux, VMWare
+Database Management: MongoDB, SQL
+Microsoft Office Suite
 
-#### Smalle Satellite Program CubeSAT
-_Embedded Systems Engineer_
+### Working On
+I am currently working on learning Embedded Systems Development by developing personal projects on my ESP32 dev board. 
 
-### Personal Projects
-#### ESP32 Morse Code Decoder
-
-### Reach Me [cameron-kasprzak@outlook.com](cameron-kasprzak@outlook.com)
+### Reach Me | [cameron-kasprzak@outlook.com](cameron-kasprzak@outlook.com)
 <!--
 **cameroonk/cameroonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
