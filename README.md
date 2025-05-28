@@ -4,10 +4,10 @@
 Auburn University | Software Engineering | 3.7 GPA
 
 ### Skills
-Programming Languages: C, C++, F', Java, JavaScript, NodeJS, Python
-DevOps: Ansible, Bash Scripting, Docker, Git, GCC, GDB, Linux, VMWare
-Database Management: MongoDB, SQL
-Microsoft Office Suite
+Programming Languages: C, C++, F', Java, JavaScript, NodeJS, Python\
+DevOps: Ansible, Bash Scripting, Docker, Git, GCC, GDB, Linux, VMWare\
+Database Management: MongoDB, SQL\
+Microsoft Office Suite\
 
 ### Working On
 I am currently working on learning Embedded Systems Development by developing personal projects on my ESP32 dev board. 
