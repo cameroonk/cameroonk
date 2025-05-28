@@ -5,9 +5,10 @@ Auburn University | Software Engineering | 3.7 GPA
 
 ### Skills
 Programming Languages: C, C++, F', Java, JavaScript, NodeJS, Python\
+Cybersecurity: NetCat, Wireshark\
 DevOps: Ansible, Bash Scripting, Docker, Git, GCC, GDB, Linux, VMWare\
 Database Management: MongoDB, SQL\
-Microsoft Office Suite\
+Microsoft Office Suite
 
 ### Projects
 OpenStack Cloud Deployment | OS161 Kernel Development | NASA Fprime Ontology Automation System | ACSI TACSI Flight Software | Software Quality Assurance CD/CI | ESP32 Morse Code Decoder
