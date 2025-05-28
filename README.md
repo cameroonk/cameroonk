@@ -1,7 +1,7 @@
 ## Hello :)
 
 ### Education
-Auburn Univserity | Software Engineering | 3.7 GPA
+Auburn University | Software Engineering | 3.7 GPA
 
 ### School Projects
 #### Alabama CubeSAT Initiative Satellite Software Generation
