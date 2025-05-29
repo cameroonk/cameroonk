@@ -1,4 +1,4 @@
-## Hello :)
+## Cameron Kasprzak | Adept at telling computers what to do
 
 ### Education
 Auburn University | Software Engineering | 3.7 GPA
