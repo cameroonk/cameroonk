@@ -14,7 +14,7 @@ Microsoft Office Suite
 OpenStack Cloud Deployment | OS161 Kernel Development | NASA Fprime Ontology Automation System | ACSI TACSI Flight Software | Software Quality Assurance CD/CI | ESP32 Morse Code Decoder
 
 ### Working On
-I am currently working on learning Embedded Systems Development by developing personal projects on my ESP32 dev board. 
+I am currently working on emulating a library checkout system using an ESP32, a Raspberry PI Pico, and RFID scanners.
 
 ### Reach Me | [cameron-kasprzak@outlook.com](cameron-kasprzak@outlook.com)
 <!--
