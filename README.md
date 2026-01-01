@@ -16,7 +16,7 @@ OpenStack Cloud Deployment | OS161 Kernel Development | NASA Fprime Ontology Aut
 ### Working On
 I am currently working on emulating a library checkout system using an ESP32, a Raspberry PI Pico, and RFID scanners.
 
-### Reach Me | [cameron-kasprzak@outlook.com](cameron-kasprzak@outlook.com)
+### Reach Me | [LinkedIn](https://www.linkedin.com/in/cameron-kasprzak/)
 <!--
 **cameroonk/cameroonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
